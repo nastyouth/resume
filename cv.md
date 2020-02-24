@@ -1,9 +1,8 @@
-## **1. Anastasia Ilina**
+### **1. Anastasia Ilina**
 ### **2. Contact me**
 * Telegram: @nastyouth
 * Mobile number: +79313116977
-* Email: nastya185342@yandex.ru
-
+* Email: nastya185342@yandex.ru 
 
 ### **3. Goals & wishes**
 I began to study programming in the summer of 2019, and soon it completely captivated me. Since then I've been looking for topics that captivate me, and devote all my time to them. I spend all my free time on development. Now, in addition to studying at the university, where get a lot of knowledge in various sections of mathematics, physics, programming, I read books on algorithms and actively study Swift. Now I am starting to study Objective-C to understand the platform and how everything works at the lowest level.
