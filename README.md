@@ -1,3 +1,3 @@
 # **rsschool-cv**
 
-[link to resume](https://nastyouth.github.io/rsschool-cv/cv)
+[link to resume](https://nastyouth.github.io/resume/cv)
