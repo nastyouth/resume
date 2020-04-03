@@ -9,17 +9,23 @@ I began to study programming in the summer of 2019, and soon it completely capti
 
 ### **4. Skills**
 * Swift
+* Objective-C
+* Autolayout, Storyboard, layout in code
 * Strong networking knowledge (HTTP protocol, client/server technologies)
 * JSONSerialization, Codable
 * Multithreading
 * MVC
-* CocoaPods
-* Autolayout, Storyboard
+* MVVM
+* SOLID
+* OOP
+* Mobile application security
 * UITableView
+* UICollectionView
+* CocoaPods
 * Git
 
 ### **5. Code examples**
-* [Github](https://github.com/nastyouth/ScheduleApp)
+* [Github](https://github.com/nastyouth)
 * [Result in AppStore](https://apps.apple.com/app/moi-gumrf/id1484830807)
 
 ### *6. *Experience**
